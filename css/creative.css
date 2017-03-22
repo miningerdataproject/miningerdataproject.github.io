@@ -427,3 +427,7 @@ body {
 #contact {
     background-color: #e1e1e1;
 }
+
+h2.section-heading.text-center.dataTitle {
+    margin-top:1%;
+}
