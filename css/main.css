@@ -57,7 +57,7 @@ figure.wow img {
   -webkit-transition: -webkit-transform 400ms;
   transition: transform 400ms;
 }
-figure:hover img {
+figure.wow:hover img {
   -webkit-transform: scale3d(1.2, 1.2, 1);
   transform: scale3d(1.2, 1.2, 1);
 }
